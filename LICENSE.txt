@@ -1,0 +1,21 @@
+XSM SaaS Landing Template License
+
+Copyright (c) 2026 Simon
+
+Permission is granted to the purchaser of this template to:
+
+- Use the template for personal projects
+- Use the template for client projects
+- Modify the template for commercial use
+
+Restrictions:
+
+- You may NOT resell the template as your own product
+- You may NOT redistribute the source code publicly
+- You may NOT claim authorship of the original template
+
+This template is sold under a single-use commercial license unless otherwise stated.
+
+For extended or redistribution licenses, contact the author.
+
+All rights reserved.
